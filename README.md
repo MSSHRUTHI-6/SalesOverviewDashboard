@@ -12,9 +12,8 @@ The project focuses on analyzing regional and state-wise sales, profit, and quan
  and improving performance. The dashboard serves as a central tool for stakeholders to track key performance metrics and identify areas of strength or improvement.
 
 The project utilized Excel and Power BI to analyze a comprehensive dataset related to Sales Overview Dashboard. Key KPIs and metrics analyzed include:
+ **1.**  _[Live Dashboard)(https://app.powerbi.com/view?r=eyJrIjoiNmUyZGU5MWUtYzQ0MS00Y2NiLWJiZDYtYjgzMGQ3MWM0ZGQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
-
-    **1.** _[Sales Overview Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmUyZGU5MWUtYzQ0MS00Y2NiLWJiZDYtYjgzMGQ3MWM0ZGQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_ 
    
 - **Key Performance Indicators (KPIs) & Metrics:** 
      •	Regional KPIs:
